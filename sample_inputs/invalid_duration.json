@@ -1,0 +1,9 @@
+[
+  {
+    "job_id": "job-bad-duration",
+    "status": "completed",
+    "started_at": 110,
+    "finished_at": 100,
+    "attempt": 1
+  }
+]

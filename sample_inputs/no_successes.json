@@ -1,0 +1,16 @@
+[
+  {
+    "job_id": "job-failed",
+    "status": "failed",
+    "started_at": 100,
+    "finished_at": 101,
+    "attempt": 1
+  },
+  {
+    "job_id": "job-running",
+    "status": "running",
+    "started_at": 100,
+    "finished_at": null,
+    "attempt": 1
+  }
+]

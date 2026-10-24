@@ -1,0 +1,16 @@
+[
+  {
+    "job_id": "valid-job",
+    "status": "completed",
+    "started_at": 1,
+    "finished_at": 2,
+    "attempt": 1
+  },
+  {
+    "job_id": "",
+    "status": "completed",
+    "started_at": 1,
+    "finished_at": 2,
+    "attempt": 1
+  }
+]

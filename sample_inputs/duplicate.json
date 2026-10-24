@@ -1,0 +1,16 @@
+[
+  {
+    "job_id": "job-duplicate",
+    "status": "completed",
+    "started_at": 100,
+    "finished_at": 105,
+    "attempt": 2
+  },
+  {
+    "job_id": "job-duplicate",
+    "status": "completed",
+    "started_at": 100,
+    "finished_at": 105,
+    "attempt": 2
+  }
+]
