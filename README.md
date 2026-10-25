@@ -76,7 +76,7 @@ Automated checks: all 15 unit tests pass (`python -m unittest discover -s tests 
 
 
 
-### Easy implementation improvements
+###Implementation improvements
 
 
 
